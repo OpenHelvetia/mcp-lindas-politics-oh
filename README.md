@@ -1,8 +1,8 @@
-# mcp-lindas
+# mcp-lindas-politics-oh
 
 > **Kurz auf Deutsch.** Dieser MCP-Server macht die 44 politischen Datenwürfel des Bundes im Linked Data Service LINDAS für KI-Systeme nutzbar: Volksabstimmungen mit Ständemehr, Referendumsvorlagen, Volksinitiativen, Nationalratswahlen, Bundesrat, Interessenbindungen. Acht Werkzeuge, jede Zahl mit ihrer Herkunft. Der Server spricht das Model Context Protocol (MCP) über stdin/stdout und lässt sich mit jedem MCP-Client verbinden. Alle Tests laufen offline gegen aufgezeichnete Antworten. Die Daten bleiben beim Bund; dieses Repository ist die Schnittstelle. Anleitung unten auf Englisch, Schritt für Schritt.
 
-**mcp-lindas** is an MCP server by the association [OpenHelvetia](https://openhelvetia.swiss) over the Confederation's Linked Data Service [LINDAS](https://lindas.admin.ch). It gives an AI system — or any MCP client — eight tools over the 44 political data cubes published under `politics.ld.admin.ch`: popular votes with the cantonal majority, referendum bills, popular initiatives, the National Council elections of 2019, 2023 and 2027, the Federal Council, and the Federal Chancellery's register of vested interests.
+**mcp-lindas-politics-oh** is an MCP server by the association [OpenHelvetia](https://openhelvetia.swiss) over the Confederation's Linked Data Service [LINDAS](https://lindas.admin.ch). It gives an AI system — or any MCP client — eight tools over the 44 political data cubes published under `politics.ld.admin.ch`: popular votes with the cantonal majority, referendum bills, popular initiatives, the National Council elections of 2019, 2023 and 2027, the Federal Council, and the Federal Chancellery's register of vested interests.
 
 **What it is not.** It is not a copy of the data and not a service you have to trust: every answer names the row, the IRI or the text it was read from, and the server derives no figure of its own. It keeps no state, needs no account, and stores nothing about you.
 
@@ -46,8 +46,8 @@ Copy each block into a terminal, one after the other. Every command runs from th
 **Clone**
 
 ```bash
-git clone https://github.com/OpenHelvetia/mcp-lindas.git
-cd mcp-lindas
+git clone https://github.com/OpenHelvetia/mcp-lindas-politics-oh.git
+cd mcp-lindas-politics-oh
 ```
 
 **Build and run the tests** (offline; the first build takes a few minutes)
@@ -78,20 +78,20 @@ Live mode is polite by default: at most two upstream requests per second with a 
 
 The server speaks MCP over **stdio**: the client starts the process and talks to it through its input and output. Any MCP client that supports stdio servers works. Two examples.
 
-**Claude Desktop** — add this to `claude_desktop_config.json` (macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`), replacing `/ABSOLUTE/PATH/TO/mcp-lindas` with the folder you cloned into, then restart Claude Desktop:
+**Claude Desktop** — add this to `claude_desktop_config.json` (macOS: `~/Library/Application Support/Claude/claude_desktop_config.json`), replacing `/ABSOLUTE/PATH/TO/mcp-lindas-politics-oh` with the folder you cloned into, then restart Claude Desktop:
 
 ```json
 {
   "mcpServers": {
-    "mcp-lindas": {
+    "mcp-lindas-politics-oh": {
       "command": "cargo",
-      "args": ["run", "--quiet", "--locked", "--manifest-path", "/ABSOLUTE/PATH/TO/mcp-lindas/mcp/servers/lindas/Cargo.toml"]
+      "args": ["run", "--quiet", "--locked", "--manifest-path", "/ABSOLUTE/PATH/TO/mcp-lindas-politics-oh/mcp/servers/lindas/Cargo.toml"]
     }
   }
 }
 ```
 
-For an offline demo add `"--", "--fixtures", "/ABSOLUTE/PATH/TO/mcp-lindas/mcp/servers/lindas/tests/fixtures"` to the `args` list.
+For an offline demo add `"--", "--fixtures", "/ABSOLUTE/PATH/TO/mcp-lindas-politics-oh/mcp/servers/lindas/tests/fixtures"` to the `args` list.
 
 **Any stdio-capable client** — the command is the same as in §2; the binary itself lives at `mcp/servers/lindas/target/debug/oh-mcp-lindas` after a build (`target/release/oh-mcp-lindas` after `cargo build --release`).
 
@@ -187,7 +187,7 @@ Anything else: open an issue in this repository with the command you ran and the
 
 The association develops all its modules in one corpus, on its own GitLab, where every change runs through a gate (formatting, Clippy without warnings, all tests, seal and drift checks). This repository is **assembled from that corpus** by the publication lane (`tools/publish-module.sh` there): it takes the crate and exactly the files its build and tests need, runs the tests in the assembled tree, and pushes here. Each publication is one commit whose message names the corpus commit.
 
-This copy was published from corpus commit `e7d088f` on 2026-09-03.
+This copy was published from corpus commit `9a70151` on 2026-09-03.
 
 On the association's website the module has a card with its state, evidence and dependencies — <https://openhelvetia.swiss/en/directory/building-blocks/political-data-engine/> — and a guide: <https://openhelvetia.swiss/en/docs/infrastructure/module-political-data-engine/>. The module is the association's own entry in its directory; the entry page names the endpoint and the probe.
 
