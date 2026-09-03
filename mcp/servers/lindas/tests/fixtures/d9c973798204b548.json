@@ -1,0 +1,4067 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/abstimmungsNummerBk"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "672"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/aenderung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2023-03-17"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatumJahr"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#gYear",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer"
+        },
+        "v": {
+          "type": "literal",
+          "value": "20.089"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer8stellig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "20200089"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3887"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/laufendeReferendumsfrist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmDate"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmId"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/phase"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Erledigt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Completed",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminé",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Loi fédérale sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP) (Réforme de la prévoyance professionnelle)",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3887"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Legge federale sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) (Riforma della previdenza professionale)",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3887"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundesgesetz über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) (Reform der beruflichen Vorsorge)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3887"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum facultatif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum facoltativo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fakultatives  Referendum",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenEingereicht"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13536"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13512"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltigNachAuszaehlung"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "24"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltigAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "0.18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ja",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Yes",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Oui",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sì",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3887"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/abstimmungsNummerBk"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "674"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/aenderung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2023-09-29"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatumJahr"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#gYear",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer"
+        },
+        "v": {
+          "type": "literal",
+          "value": "15.455"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer8stellig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "20150455"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3917"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/laufendeReferendumsfrist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmDate"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmId"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/phase"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Erledigt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Completed",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminé",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Obligationenrecht (Mietrecht: Untermiete)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3917"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Code des obligations (Droit du bail: sous-location)",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3917"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Codice delle obbligazioni (Diritto di locazione: sublocazione)",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3917"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum facultatif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum facoltativo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fakultatives  Referendum",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenEingereicht"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "11362"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "11311"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltigNachAuszaehlung"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "51"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltigAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "0.45"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ja",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Yes",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Oui",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sì",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3917"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/abstimmungsNummerBk"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "675"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/aenderung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2023-09-29"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatumJahr"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#gYear",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer"
+        },
+        "v": {
+          "type": "literal",
+          "value": "18.475"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer8stellig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "20180475"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3919"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/laufendeReferendumsfrist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmDate"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmId"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/phase"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Erledigt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Completed",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminé",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Obligationenrecht (Mietrecht: Kündigung wegen Eigenbedarfs)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3919"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Code des obligations (Droit du bail: résiliation pour besoin propre)",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3919"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Codice delle obbligazioni (Diritto di locazione: disdetta per bisogno personale)",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3919"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum facultatif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum facoltativo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fakultatives  Referendum",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenEingereicht"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13642"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13627"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltigNachAuszaehlung"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "15"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltigAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "0.11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ja",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Yes",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Oui",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sì",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3919"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/abstimmungsNummerBk"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "670"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/aenderung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Es wird wie folgt in Kraft gesetzt: a. auf den 1. Januar 2025: die Bestimmungen des Energiegesetzes (Ziff. I 1), unter Vorbehalt von Buchstabe b Ziffer 2, des Waldgesetzes (Ziff. IV) sowie, unter Vorbehalt von Buchstabe b Ziffer 1, des Stromversorgungsgesetzes (Ziff. I 2 und II); b. auf den 1. Januar 2026: 1. die Bestimmungen des Stromversorgungsgesetzes (Ziff. I 2): Artikel 4 Absatz 1 Buchstabe f, 9b Absatz 2, 12 Absatz 1 Buchstabe c, 2 Buchstabe c, 14 Sachüberschrift, Absatz 1, 3 Einleitungsteil und Buchstabe a und e sowie 3bis, 14a Absatz 4, 5 Buchstabe a und 6, 15 Absatz 1, 2 Buchstabe d, 3 und 3bis; Gliederungstitel vor Artikel 17a; Artikel 17a und 17abis; Gliederungstitel vor Artikel 17b; Artikel 17c; Gliederungstitel vor Artikel 17d; Artikel 17d und 17e, 22 Absatz 2 Buchstabe b–d, 2. Artikel 15 des Energiegesetzes (Ziff. I 1); c. die Bestimmungen des Raumplanungsgesetzes werden zu einem späteren Zeitpunkt in Kraft gesetzt (Ziff. III).",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung/3930"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Elle entre en vigueur comme suit: a. le 1er janvier 2025: les dipositions de la loi sur l’énergie (ch. I 1), sous réserve de la let. b ch. 2, de la loi sur les forêts (ch. IV) ainsi que, sous réserve de la let. b ch. 1, de la loi sur l’approvisionnement en électricité (ch. I 2 et II); b. le 1er janvier 2026: 1. les dipositions de la loi sur l’approvisionnement en électricité (ch. I 2): art. 4, al. 1, let. f, 9b, al. 2, 12, al. 1, let. c, 2, let. c, 14, titre, al. 1, 3 partie introductive et let. a et e, et 3bis, 14a, al. 4, 5, let. a et 6, 15, al. 1, 2, let. d, 3 et 3bis; titre précédant l’art. 17a; art. 17a et 17abis; titre précédant l’art. 17b; art. 17c; titre précédant l’art. 17d; art. 17d et 17e, 22, al. 2, let. b à d, 2. l’art. 15 de la loi sur l’énergie (ch. I 1);<br />c. les dipositions de la loi sur l’aménagement du territoire (ch. III) entrent en vigueur ultérieurement.",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung/3930"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Essa entra in vigore come segue: a. il 1° gennaio 2025: le disposizioni della legge federale sull’energia (cifra I 1), fatto salvo la lettera b numero 2, della legge forestale (cifra IV) nonché, fatto salvo la lettera b numero 1, della legge sull’approvvigionamento elettrico (cifra I 2 e II); b. il 1° gennaio 2026: 1. le disposizioni della legge sull’approvvigionamento elettrico (cifra I 2): articolo 4 capoverso 1 lettera f, 9b capoverso 2, 12 capoverso 1 lettera c, 2 lettera c, 14, rubrica, capoverso 1, 3, parte introduttiva e lettere a ed e, nonché 3bis, 14a capoverso 4, 5 lettera a e 6, 15 capoverso 1, 2 lettera d, 3 e 3bis; titolo prima dell’articolo 17a; articolo 17a e 17abis; titolo prima dell’articolo 17b; articolo 17c; titolo prima dell’articolo 17d; articolo 17d e 17e, 22 capoverso 2 lettere b–d, 2. l’articolo 15 legge federale sull’energia (cifra I 1); c.le disposizioni della legge sulla pianificazione del territorio (cifra III) entreranno in vigore in un secondo tempo.",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung/3930"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2023-09-29"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatumJahr"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#gYear",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer"
+        },
+        "v": {
+          "type": "literal",
+          "value": "21.047"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer8stellig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "20210047"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3930"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/laufendeReferendumsfrist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmDate"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmId"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/phase"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Erledigt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Completed",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminé",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundesgesetz über eine sichere Stromversorgung mit erneuerbaren Energien (Änderung des Energiegesetzes und des Stromversorgungsgesetzes)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3930"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Legge federale su un approvvigionamento elettrico sicuro con le energie rinnovabili (Modifica della legge federale sull’energia e della legge sull’approvvigionamento elettrico)",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3930"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables (Modification de la loi sur l’énergie et de la loi sur l’approvisionnement en électricité)",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3930"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum facultatif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum facoltativo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fakultatives  Referendum",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenEingereicht"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13180"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13132"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltigNachAuszaehlung"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "48"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltigAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "0.36"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ja",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Yes",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Oui",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sì",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3930"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/abstimmungsNummerBk"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "673"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/aenderung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "false"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2023-09-29"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatumJahr"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#gYear",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer"
+        },
+        "v": {
+          "type": "literal",
+          "value": "23.032"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer8stellig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "20230032"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3931"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/laufendeReferendumsfrist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmDate"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmId"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/phase"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Erledigt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Completed",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminé",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Terminato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status/erledigt"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Arrêté fédéral sur l’étape d’aménagement 2023 des routes nationales",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3931"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundesbeschluss über den Ausbauschritt 2023 für die Nationalstrassen",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3931"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decreto federale sulla Fase di potenziamento 2023 delle strade nazionali",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel/3931"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum facultatif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum facoltativo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fakultatives  Referendum",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ/16"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenEingereicht"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "17464"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "17445"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltigNachAuszaehlung"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "19"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltigAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "0.11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ja",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Yes",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Oui",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sì",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1/observations/1-3931"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen/ja"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "head": {
+    "vars": [
+      "dim",
+      "name",
+      "nameLang",
+      "nodeKind",
+      "datatype",
+      "scale",
+      "class",
+      "minCount",
+      "maxCount",
+      "unit",
+      "inList"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/identifier"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/legalName"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/name"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/validFrom"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/validTo"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasPerson"
+        }
+      }
+    ]
+  }
+}

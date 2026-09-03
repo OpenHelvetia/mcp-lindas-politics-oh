@@ -1,0 +1,538 @@
+{
+  "head": {
+    "vars": [
+      "value",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fakultative Referendumsvorlage",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum facultatif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum facoltativo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Gegenentwurf",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Contre-projet",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Controprogetto",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Obligatorische Referendumsvorlage",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum obligatoire",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum obbligatorio",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Volksinitiative",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/4"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Initiative populaire",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/4"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Iniziativa popolare",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/4"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Popular initiative",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/4"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/4"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/5"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Verfahrensleitender Entscheid (Volksinitiative)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/5"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Décision sur la suite de la procédure (initiative populaire)",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/5"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decisione che disciplina la procedura (iniziativa popolare)",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/5"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decision directing proceedings (popular initiative)",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/5"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Doppeltes Ja (Volksinitiative)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Double oui (initiative populaire)",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Doppio sì (iniziativa popolare)",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Double yes vote (popular initiative)",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Stichfrage",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/stichfrage"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Question subsidiaire",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/stichfrage"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Domanda risolutiva",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/stichfrage"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dumonda decisiva",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/stichfrage"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Deciding question",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/stichfrage"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1544 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/datum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1893-06-20"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "BBl 1893 III 745",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2365"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "FF 1893 III 913",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2365"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "BBl 1893 III 745",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2365"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/sortierung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Beschluss des Parlaments",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Arrêté du Parlement",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decreto del Parlamento",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Beschluss des Parlaments",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-17"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/datum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1892-05-10"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/sortierung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sammelbeginn",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Inizio della raccolta delle firme",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Début de la récolte des signatures",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sammelbeginn",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-2"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/datum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1893-08-20"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "BBl 1893 IV 401",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2797"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "FF 1893 IV 403",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2797"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "BBl 1893 IV 401",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2797"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/sortierung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abgestimmt am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votation le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votato il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abgestimmt am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-22"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/datum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1893-12-22"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "AS XIII 1020",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2900"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "RO XIII 1015",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2900"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "RU XIII 1077",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2900"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "AS XIII 1020",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle/2900"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/sortierung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "21"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Inkrafttreten am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Entrée en vigueur",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Entrata in vigore il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Inkrafttreten am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-24"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/datum"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1892-09-15"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/sortierung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "5"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Eingereicht am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Initiative déposée le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Iniziativa depositata il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Eingereicht am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1/observations/1-7"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      }
+    ]
+  }
+}

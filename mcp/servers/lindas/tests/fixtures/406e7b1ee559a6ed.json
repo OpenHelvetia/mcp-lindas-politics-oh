@@ -1,0 +1,56 @@
+{
+  "head": {
+    "vars": [
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      }
+    ]
+  }
+}

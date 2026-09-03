@@ -1,0 +1,317 @@
+{
+  "head": {
+    "vars": [
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsfrage"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/auslandschweizer"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/eingereicht"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisBinary"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/gueltig"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ja"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneGegenentwurfGanzeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneGegenentwurfHalbeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneInitiativeGanzeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneInitiativeHalbeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneJaGanzeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneJaHalbeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneNeinGanzeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneNeinHalbeStandesstimme"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/leer"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/mmDate"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/mmId"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/nein"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ohneAntwort"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeGegenentwurfText"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeInitiativeText"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenGegenentwurf"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenInitiative"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenJa"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenNein"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stichfrage"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmberechtigte"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmenGegenentwurf"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmenInitiative"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/titelVolksmund"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ungueltig"
+        }
+      }
+    ]
+  }
+}

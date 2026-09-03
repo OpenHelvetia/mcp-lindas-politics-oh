@@ -1,0 +1,6449 @@
+{
+  "head": {
+    "vars": [
+      "value",
+      "label",
+      "labelLang",
+      "observations"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "5"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MASS-VOLL! Bewegung für Freiheit, Souveränität und Grundrechte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Eidgenössisch-Demokratische Union"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei (EVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MASS-VOLL! Bewegung für Freiheit, Souveränität & Grundrechte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei (SVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EDU – Eidgenössisch-Demokratische Union"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen – Jungfreisinnige"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Partei (GLP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Evangelische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grünliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Schweizerische Volkspartei (JSVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Jeunes du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP – Sozialdemokratische Partei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Gewerbe"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizer Demokraten (SD)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "40 ans d'engagements - Les Vert-e-s"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "AL – Alternative Liste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Aktive Senioren Luzern"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alliance Chrétienne pour Genève (PEV - UDF)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alliance du Centre – PEV"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen - Berg"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen - Ennetsee"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen - Junge Alternative a"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen - Junge Alternative b"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen - Nachhaltig Grün"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Alternative – die Grünen - Urban"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Au service du citoyen (Service Citoyen) // Im Dienst der Bürgerinnen und Bürger (Dienst der Bürger)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "AuF SG / Aufrecht St.Gallen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Aufrecht Baselland"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Aufrecht Bern // Aufrecht Berne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Aufrecht Thurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Aufrecht Zürich"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Avanti con Ticino&Lavoro"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Avenir écologie // Zukunft und Nachhaltigkeit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Best Agers der Mitte // Best Agers du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Bildung und Kultur (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Bündnis GRÜNE BastA!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Bündnis: BastA! junge Alternative!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Bündnis: BastA! radikal menschlich"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Bürgerliche Stadt- und Landliste // Liste Bourgeoise Ville et Campagne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Centre Gauche-PCS Fribourg (CG-PCS) // Mitte Links-CSP Freiburg (ML-CSP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Christ-und-Politik.CH"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Christlich-Soziale (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Christlich-Soziale Partei (CSP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Aufbruch"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Region Frauenfeld-Untersee"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Region Münchwilen-Hinterthurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Region Thurtal"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Ruggewind"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Ufwind"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte - Zukunft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte // Jeunes du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte Basel-Landschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte a"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Junge Mitte b"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - AWG"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Aufbruch"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Ausserschwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Die Junge Mitte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Fortschritt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Innerschwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Junge und Erfahrene Kreuzlingen-Bodensee"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Region Arbon-Oberthurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Region Frauenfeld-Untersee"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Region Kreuzlingen-Bodensee"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Region Münchwilen-Hinterthurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Region Thurtal"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Stadt und Land Zug"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Vertrauen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte - Zukunft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Basel-Landschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Basel-Stadt 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Bildung und Gesundheit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Dorneck-Thierstein"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Frauen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Hauptliste // Liste principale du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Kanton Solothurn"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Oberes Baselbiet"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Olten-Gösgen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Region Solothurn"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Schaffhausen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Schwyz, Freiheit.Solidarität.Verantwortung."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Thal-Gäu"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte Unteres Baselbiet"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte – Die Erfahrenen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte – Die Junge Mitte Nord-Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte – Die Junge Mitte Süd-West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte – Frauen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte – Wirtschaft und Gesellschaft AWG"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Die Erfahrenen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Die Junge Mitte Liste Nord-West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Die Junge Mitte Liste Süd-Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Hauptliste Nord-West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Hauptliste Süd-Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Perspektivenliste Nord-West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Die Mitte, Perspektivenliste Süd-Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "DieMitte.Miteinander.Für den Aargau."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Digital-liberale Allianz – Piratenpartei Schweiz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Digital-liberale Allianz – zh.digital"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EAG - LUP : Retraité · e · s fâchés contre la hausse des prix et la baisse des rentes"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EAG - LUP : Voix des quartiers populaires"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EAG - LUP : travailleuses en colère"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EDU"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EDU Junge Christen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EVP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EVP - Evangelische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EVP Graubünden"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EVP Kanton St.Gallen, Liste St.Gallen-Wil"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "EVP Kanton St.Gallen, Liste Süd"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Eidgenössisch Demokratische Union // Union Démocratique Fédérale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Eidgenössisch Demokratische Union Basel-Stadt (EDU)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Eidgenössisch Demokratische Union Plus // Union Démocratique Fédérale Plus"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Eidgenössisch-Demokratische Union (EDU)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Engagiert für eine starke Pflege – Pflegeliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Ensemble à Gauche (da., S&E, solidaritéS, indép.)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Ensemble à Gauche - Liste d'Union Populaire (EAG-LUP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Ensemble à Gauche : solidaritéS · DAL · Parti du Travail"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Ethische Unternehmer:innen und Führungskräfte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Europe et international - PVL"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei (EVP) – Frauen EVP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei (EVP) – Junge EVP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei - Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei // Parti Evangélique"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei Basel-Stadt (EVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei Erfahrung // Parti Evangélique Expérience"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei KMU // Parti Evangélique PME"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei Kanton Schwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Evangelische Volkspartei Zukunft // Parti Evangélique Avenir"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Exekutiv-Liste der Mitte // Liste des exécutifs du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP - Fortschritt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP - Freisinn"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP - Jungfreisinnige (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP 60+ – Liberal für 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP G+S – Liberal für Gesundheit und Sicherheit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP PLUS"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP Regio – Liberal für Gemeinden und Regionen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP Unt. – Liberal für Unternehmen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP-die Erste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP-die Jungen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP-die Zweite"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen - dynamisch & lösungsorientiert"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen - eigenverantwortlich und klimafreundlich"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen - engagiert für Stadt und Land"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen - frei und progressiv (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Baselland"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Kanton Bern // PLR.Les Libéraux-Radicaux du canton de Berne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Kanton Schwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Luzern"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen Thurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen – Boomers für die Jugend"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen – Frauen Schwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen – Gesunde Schwyzer Finanzen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen – Innovation + Nachhaltigkeit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen – Schwyzer Gewerbe"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen, Frauen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen, Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen, Jungfreisinnige"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen, Jungfreisinnige I"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen, Jungfreisinnige II"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen, Umweltfreisinnige"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Frauen Stadt-Land"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Gemeinden"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Generationen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Kultur und Sport"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Landwirtschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Sozial-liberal"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Umwelt und Energie"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "FDP.Wirtschaft und Bildung"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Femmes socialistes du Valais romand"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Finance durable - PVL"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Freie Liste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Freie Unabhängige Bündner"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Für eine produzierende Landwirtschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - Bildung"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - Grünliberale Partei Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - Junge Grünliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - KMU"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - Klima & Umwelt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP - Regio & Europa"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Grünliberale Graubünden - Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Grünliberale Graubünden - Junge"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Grünliberale Graubünden - Plus 1"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Grünliberale Graubünden - Plus 2"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Grünliberale Graubünden - Plus 3"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Unternehmerinnen und Unternehmer"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP Wirtschaftsliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP – Grünliberale Partei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP – Grünliberale Partei (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP – International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP – Junge Grünliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP – Oldies for Future"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP – Start-up"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP-E – Gesellschaft und Engagement"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP-G – Gesundheit, Pflege und Medizin"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP-M – GLP Mutschellen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP-S – Grünliberale Seniorinnen und Senioren"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP-W – Wirtschaft, Industrie und Gewerbe"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GLP-Wi – Wissenschaft und Forschung"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE // Les VERT·E·S"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Bildung & Soziales"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Bio-Bäuerinnen*"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Energie & Kreislaufwirtschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Kultur"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Landwirtschaft mit Zukunft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Panther - Senioren"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Thurgau - Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Unternehmer*innen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Verantwortung"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE Zukunft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, Evergreens"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, Für nachhaltiges Wirtschaften"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, Junge Grüne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, Junge Grüne – Klima vor Profit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, LGBTIQ+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "GRÜNE, Newcomers"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Gesundheit und Soziales (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Gewerbe LDP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grüne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grüne Baselland"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grüne Gesundheit und Soziales"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grüne Panther"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grüne Partei Schaffhausen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grüne Schwyz - Für eine lebenswerte Zukunft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale (GLP), Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale (GLP), Junge Grünliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Bezirk Arbon"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Bezirk Frauenfeld"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Bezirk Kreuzlingen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Bezirk Münchwilen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Bezirk Weinfelden"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Senior"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale - Stammliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale // Vert'libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Energie // Vert’libéraux Energie"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Frankophon und Frankophil // Vert’libéraux Francophones & Francophiles"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale International // Vert’libéraux International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale KMU // Vert'libéraux PME"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Kreative // Vert’libéraux Créatives et Créatifs"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Partei - Digitalisierung"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Partei - KMU und Wirtschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Partei - Pflege und Gesundheit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Partei Basel-Landschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Queer & Allies // Vert'libéraux Queer & Allies"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale Tier und Natur // Vert’libéraux Animaux et Nature"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale – GLP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale – GLP, GLP Gesundheit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale – GLP, GLP Wirtschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale – GLP, Junge Grünliberale (JGLP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Grünliberale – GLP, senior GLP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Génération Le Centre - Deutschfreiburg (Génération Centre - Deutschfreiburg) // Generation Die Mitte - Deutschfreiburg (Generation Die Mitte - Deutschfreiburg)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Génération Le Centre - Fribourg-Ville (Génération Centre - Fribourg-Ville) // Generation Die Mitte - Freiburg-Stadt (Generation Die Mitte - Freiburg-Stadt)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Génération Le Centre - Sarine-Campagne et Broye (Génération Centre - Sarine-Campagne et Broye) // Generation Die Mitte - Saane-Land und Broye (Generation Die Mitte - Saane-Land und Broye)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Génération Le Centre - Sud (Génération Centre - Sud) // Generation Die Mitte - Süden (Generation Die Mitte - Süden)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "HelvEthica (HE)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "HelvEthica Ticino"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JG – Junge Grüne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JGLP Liste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JGLP – Junge Grünliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JSVP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JSVP - junge SVP Graubünden"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JSVP – Junge Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUSO Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUSO Frauen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUSO Gewerkschaften"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUSO Klima und Feminismus"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUSO – SP Jungsozialist*innen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUSOplus-Jungsozialist*innen und junge Linke"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JUTZIPhilipp.com // JUTZIPhilipp.com"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Libéraux-Radicaux Chablais (JLR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Libéraux-Radicaux Fribourg (Jeunes PLR) // Jungfreisinnige Freiburg (Junge FDP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Libéraux-Radicaux Martigny et région (JLR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Libéraux-Radicaux Valais central (JLR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Libéraux-Radicaux Vaudois"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes UDC"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes UDC Centre-Ouest (Jeunes UDC Centre-Ouest) // Junge SVP Zentrum-West (Junge SVP Zentrum-West)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes UDC Gruyère (Jeunes UDC Gruyère) // Junge SVP Gruyère (Junge SVP Gruyère)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes UDC Singine-Lac (Jeunes UDC Singine-Lac) // Junge SVP Sense-See (Junge SVP Sense-See)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes UDC Vaud"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Vert'libéraux (JVL)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Vert'libéraux // Junge Grünliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Vert-e-x-s (Jeunes Vert-e-x-s) // Junge Grüne (Junge Grüne)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes Vert·e·x·s // Junge Grüne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes du Centre Valais romand - Bas-Valais"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes du Centre Valais romand - Valais central"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes vert'libéraux (Jeunes vert'libéraux) // Junge Grünliberale Partei (Junge Grünliberale)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunes vert·exs vaudois·exs"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesse Socialiste Genevoise"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesse socialiste fribourgeoise (JSF) // Jungsozialist-innen Kanton Freiburg (JUSO)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesse socialiste jurassienne (JSJ)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesse socialiste vaudoise - JSV"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesses socialistes de Martigny et région (JSVR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesses socialistes de Sierre et région (JSVR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesses socialistes de Sion et région (JSVR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jeunesses socialistes du Chablais (JSVR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Alternative (Junge Grüne Stadt Bern) // Junge Alternative (Junge Grüne Stadt Bern)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Eidgenössisch Demokratische Union // Jeunes Union Démocratique Fédérale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Eidgenössisch-Demokratische Union"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge GLP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne Kanton Bern // Jeunes Vert-e-s Berne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne Schwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne Solothurn"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne Thurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne a"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grüne b"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grünliberale // Jeunes Vert'libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grünliberale Partei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Grünliberale Partei Basel-Landschaft"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge SP Region Olten"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge SVP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge SVP Basel-Stadt (JSVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge SVP Baselland"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Junge Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige // Jeunes Libéraux-Radicaux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Baselland"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Kanton Solothurn «denk neu»"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Kanton Solothurn «wähl jung»"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Oberwallis (JF)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Schaffhausen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige Thurgau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige a"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungfreisinnige b"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungliberale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungsozialist*innen // Jeunesse socialiste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungsozialist*innen Agglokinder"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungsozialist*innen Landkinder"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungsozialist*innen Oberwallis (JUSOO)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungsozialist*innen/JUSO"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "JungsozialistInnen (JUSO)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Jungsozialistische Partei (JUSO)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Klimaschutz (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "LDP Liberal-Demokratische Partei Basel-Stadt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "LOVB – Lösungs-Orientierte Volks-Bewegung"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "La Terre au Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Landwirtschaft (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Landwirtschaftsliste der Mitte // Liste agricole du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Centre - Indépendants"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Centre Fribourg (Le Centre) // Die Mitte Freiburg (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Centre Jura (Centre)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Centre Jura - Avenir (Centre-A)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Centre Valais romand"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Pacte Citoyen (Pacte Citoyen) // Der Bürgerpakt (Bürgerpakt)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Le Peuple d'abord"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Lega dei Ticinesi"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Lega dei Ticinesi - Donne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Lega dei Ticinesi - Giovani Leghisti"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Lega dei Ticinesi - Nei Comuni"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Lega dei Ticinesi - Over 60"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Jeunes Libéraux-Radicaux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Jeunes Vert'libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Jeunes Vert-e-s Jura (Jeunes Vert-e-s)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Jeunes Vert-e-x-s"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Jeunes du Centre (JDC)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Libres"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Socialistes"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Socio-Chrétiens (PEV)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les VERT-E-S (Les VERT-E-S) // GRÜNE (GRÜNE)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert'libéraux - PVL"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert'libéraux // Die Grünliberalen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert-e-s"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert-e-s Jura (Vert-e-s)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert-e-s neuchâtelois-es"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert-e-s neuchâtelois-es, Jeunes Vert-e-s Neuchâtel"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert-e-s pour une économie durable et des emplois locaux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert-es"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Les Vert.e.s. Mouvement écologiste vaudois"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Libertäre Partei (LP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Liberté"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Liste für die Vielfalt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Los Normalos // Los Normalos"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MASS-VOLL! - Freiheit, Souveränität & Grundrechte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MASS-VOLL! Bewegung für Freiheit, Souveränität und Grundrechte // MASS-VOLL! Mouvement pour la liberté, la souveraineté et les droits fondamentaux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MCG - Des opposants à la hausse des primes d'assurance-maladie"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MCG - Les Femmes"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MCG - Mouvement Citoyens Genevois"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Mitte-Parteien – Die Junge Mitte Oberwallis"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Mitte-Parteien – Die Mitte Oberwallis"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Mitte-Parteien – NEO - Die sozialliberale Mitte"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Mitte-Parteien – NEO - Die sozialliberale Mitte J+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Mitte-Parteien – NEO - Die sozialliberale Mitte VS+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteAR.Miteinander.Für Aarau Regio."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteBZ.Miteinander.Für Brugg und das Zurzibiet."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteBad.Miteinander.Für den Bezirk Baden."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteExe.Miteinander.Für die Städte und Gemeinden."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteFA.Miteinander.Für das Freiamt."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteFT.Miteinander.Für das Fricktal."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteKL.Miteinander.Für Kulm und Lenzburg."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteLA.Miteinander.Für Land- & Ernährungswirtschaft."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MitteZof.Miteinander.Für den Bezirk Zofingen."
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Movimento per le Valli del Ticino"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "MuPa – Musikpartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "No UE - no NATO"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PARAT"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PLR.Les Libéraux-Radicaux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PLR.Les Libéraux-Radicaux (PLR) // FDP. Die Liberalen (FDP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PLR.Les Libéraux-Radicaux / FDP.Die Liberalen (PLR FDP VS)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PLR.Les Libéraux-Radicaux Genève"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PLR.Énergie libérale"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "POP - Parti Ouvrier et Populaire"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "PPAG – Piratenpartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partei der Arbeit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partei der Arbeit (PdA) Basel"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partei gegen Ausgrenzung – Menschenwürde für alle"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partei rechts-punkt.ch"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parteifrei SG"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parteilos Katja Staub"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti Evangélique (PEV) // Evangelische Volkspartei (EVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti Libéral-Radical Neuchâtelois (PLRN)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti Libéral-Radical Neuchâtelois (PLRN), Jeunes Libéraux-Radicaux (JLR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti Pirate Vaudois"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti libéral-radical jurassien (PLRJ)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti libéral-radical jurassien - Engagement (PLRJ-Engagement)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti libéral-radical jurassien - Equilibre (PLRJ-Equilibre)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti ouvrier et Populaire (PoP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste 60+ du Valais romand (PS 60+)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste du Valais romand (PSVR)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste fribourgeois (PS) // Sozialdemokratische Partei Freiburg (SP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste jurassien (PSJ)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste neuchâtelois (PSN)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste neuchâtelois (PSN), Jeunesse socialiste neuchâteloise (JSN)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti socialiste vaudois"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti vert'libéral (PVL)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti vert'libéral (PVL) // Grünliberale Partei (GLP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti vert'libéral (PVL), Entrepreneurs vert'libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti vert'libéral (PVL), Jeunes vert'libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Parti Évangélique (PEV)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partito Socialista"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partito Socialista - GISO"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partito Socialista - PS60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partito liberale radicale ticinese"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partito liberale radicale ticinese - Giovani liberali radicali ticinesi"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Partito liberale radicale ticinese - Libertà, energia e ambiente"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Piratenpartei // Parti Pirate"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Più Donne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Pop Valais/Wallis (Parti Ouvrier & Populaire / Partei der Arbeit)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SLÉP – Schweizerische Liberté Égalité Partei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP - Kultur"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP - Pflege - Betreuung - Carearbeit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP - Sozialdemokratische Partei und Gewerkschaften"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP E&K – Energie und Klima"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP F&J – Familie und Jugend"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP Frauen und Queer, JUSO und Gewerkschaften // Parti Socialiste, JS et Syndicats - femmes et Queer"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP GE – Gesundheit"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP GfV – Gemeinsam für Vielfalt"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP JUSO 1"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP JUSO 2"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP K&K – Kunst und Kultur"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP Männer und Queer, JUSO und Gewerkschaften // Parti Socialiste, JS et Syndicats - hommes et Queer"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP Sozialdemokratische Partei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP und Gewerkschaften, Hauptliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP und Gewerkschaften, JUSO"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP und Gewerkschaften, Nachwuchsliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP – Sozialdemokratische Partei, JUSO"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP – Sozialdemokratische Partei, SP Queer"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP – Sozialdemokratische Partei, SP60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SP-Second@s Plus und Migrant:innen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP (Frauen und Männer) // UDC (femmes et hommes)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP (Junge SVP) // UDC (Jeunes UDC)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Die Schweizerische Volkspartei (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Für ein lebenswertes Baar!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Für eine starke Stadt Zug!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Für einen dynamischen Ennetsee!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Für unser schönes Ägerital!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Junge Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP - Keine 10 Millionen Schweiz!"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP AGRO"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Gewerbe-Liste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Gipfelstürmer - Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP KMU"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Kanton Solothurn"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Oberwallis – Chrampfer"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Oberwallis – Power"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Oberwallis – Üfbruch"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP POWER - Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP PUURA - Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Schweizerische Volkspartei – Junge SVP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Schweizerische Volkspartei – KMU / Unternehmerliste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Schweizerische Volkspartei – Secondos"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Schweizerische Volkspartei – Ü55 Liste"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP Senioren - Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SVP – Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "SansPapiersPolitiques"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizer Demokraten // Démocrates Suisses"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizer Demokraten, für unser Volk und unsere Heimat"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei Basel-Stadt (SVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei Baselland"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Schwyzer Gesundheits- und Pflegepersonal"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) - SP Frauen"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) - SP Jung(s)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) - SP Juso"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) - SP Kanton Zug (Stammliste)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) Kanton Schwyz"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) Liste Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) Liste West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei (SP) und Gewerkschaften"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei - Liste 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei 60+"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Basel-Stadt (SP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Basel-Stadt 60+ (SP 60+)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei Oberwallis (SPO)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sozialdemokratische Partei und Gewerkschaften"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Sport et nature - PVL"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC - Agrari"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC - Artigiani e Imprenditori"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC - Donne"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC - Giovani"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC International"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC Jeunes du Bas-Valais"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC Jeunes du Valais central"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC Liberté et Démocratie"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC Liberté et Mobilité"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC Valais romand"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDC Vaud"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "UDF"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique Fédérale (UDF)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique Fédérale (UDF) // Eidgenössisch-Demokratische Union (EDU)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre (UDC)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre (UDC) // Schweizerische Volkspartei (SVP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre (UDC), Jeunes UDC Neuchâtel"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre - Jeunes (JUDC)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre - Relève (UDC Relève)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Union démocratique du Centre (UDC)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "VERDI e Forum Alternativo"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "VERDI e Forum Alternativo - Clima"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "VERDI e Forum Alternativo - Giovani Verdi"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "VERDI e Forum Alternativo - Sanità"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "VERDI e Forum Alternativo - Sempreverdi"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Verdi Liberali (PVL)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Verdi Liberali (PVL) - Giovani Verdi Liberali"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Vert'Libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Vert'Libéraux-Engagés pour demain"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Vert'Libéraux-Jeunes Vert'Libéraux"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Vert'libéraux (PVL)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Volks-Aktion gegen zuviele Ausländer und Asylanten in unserer Heimat (VA) - Liste Ausländerstopp"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Weniger ist mehr"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Wirtschaft und Gewerbe (Die Mitte)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Wirtschaftsliste der Mitte // Liste de l’entreprenariat du Centre"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "Zuger Gewerkschaftsbund"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "aufrecht-zug"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. EVP – Evangelische Volkspartei"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. EVP+ – Evangelische Volkspartei Plus"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. JEVP Ost – Junge Evangelische Volkspartei Ost"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. JEVP We. – Junge Evangelische Volkspartei West"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. für eine gute Bildung (enB)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. für eine sichere Energieversorgung (enE)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. für eine starke Pflege (enP)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "engagiert. für florierende KMU (enK)"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "il Centro"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "il Centro - Giovani del Centro"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "il Centro - Giovani per il Ticino"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "il Centro - Più Voce ai Pensionati"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "il Centro - Ticinesi nel mondo"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "junges grünes bündnis"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "pda-ag – Partei der Arbeit Aargau"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "senior GLP"
+        }
+      },
+      {
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "value": {
+          "type": "literal",
+          "value": "solidaritéS"
+        }
+      }
+    ]
+  }
+}

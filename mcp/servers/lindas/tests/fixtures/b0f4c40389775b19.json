@@ -1,0 +1,928 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Rechtsform unbestimmt oder unbekannt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/legalName"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/ech/97/legalforms/0571"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Forme juridique non déterminée ou inconnue",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/legalName"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/ech/97/legalforms/0571"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/name"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Zentralamt für Edelemetallkontrolle"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Nessuna indicazione",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Aucune indication",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Keine Angaben",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Nessuna indicazione",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Aucune indication",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Keine Angaben",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Brodmann, Thomas (1966)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11685"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasPerson"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/person/12169"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/name"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Expertengruppe Zürcher Fluglärm- Index ZFI"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Nessuna indicazione",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Aucune indication",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Keine Angaben",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Mitglied",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Membre",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Membro",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schäffer, Beat (1974)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11690"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasPerson"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/person/13386"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/name"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Banque cantonale vaudoise (BCV), Lausanne"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Verwaltungsrat",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/9"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Consiglio d'amministrazione",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/9"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Conseil d'administration",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasCommittee"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-committee/9"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Mitglied",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Membre",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Membro",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasFunction"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vocabulary/interest-function/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Urech, Pierre-Alain (1955)",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/11691"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/hasPerson"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/person/10539"
+        }
+      }
+    ]
+  }
+}

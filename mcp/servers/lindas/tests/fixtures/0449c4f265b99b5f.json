@@ -1,0 +1,526 @@
+{
+  "head": {
+    "vars": [
+      "name",
+      "nameLang",
+      "description",
+      "descriptionLang",
+      "created",
+      "published",
+      "modified",
+      "status",
+      "publisher",
+      "theme",
+      "viewer",
+      "observations"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informationen zu den Listen der Nationalratswahlen 2023",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste per le elezioni del Consiglio nazionale 2023",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informations sur les listes pour les élections au Conseil national 2023",
+          "xml:lang": "fr"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste per le elezioni del Consiglio nazionale 2023",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informazioni sulle liste per le elezioni del Consiglio nazionale 2023",
+          "xml:lang": "it"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste per le elezioni del Consiglio nazionale 2023",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informationen zu den Listen der Nationalratswahlen 2023",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listen der Nationalratswahlen 2023",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informations sur les listes pour les élections au Conseil national 2023",
+          "xml:lang": "fr"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listen der Nationalratswahlen 2023",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informazioni sulle liste per le elezioni del Consiglio nazionale 2023",
+          "xml:lang": "it"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listen der Nationalratswahlen 2023",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informationen zu den Listen der Nationalratswahlen 2023",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listes pour les élections au Conseil national 2023",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informations sur les listes pour les élections au Conseil national 2023",
+          "xml:lang": "fr"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listes pour les élections au Conseil national 2023",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-03-15"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Informazioni sulle liste per le elezioni del Consiglio nazionale 2023",
+          "xml:lang": "it"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-06-04"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listes pour les élections au Conseil national 2023",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-04-01"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "theme": {
+          "type": "literal",
+          "value": "https://register.ld.admin.ch/opendataswiss/category/politics"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1346 @@
+{
+  "head": {
+    "vars": [
+      "dim",
+      "name",
+      "nameLang",
+      "nodeKind",
+      "datatype",
+      "scale",
+      "class",
+      "minCount",
+      "maxCount",
+      "unit",
+      "inList"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-57F7385D62391EE73F881CB1BFD2120A"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Name",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-57F7385D62391EE73F881CB1BFD2120A"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Name",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-57F7385D62391EE73F881CB1BFD2120A"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Nom",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-57F7385D62391EE73F881CB1BFD2120A"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Nome",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-57F7385D62391EE73F881CB1BFD2120A"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Num",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-2CBD1E0396233CC59628884116800F05"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Kanton",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-2CBD1E0396233CC59628884116800F05"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Canton",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-2CBD1E0396233CC59628884116800F05"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Canton",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-2CBD1E0396233CC59628884116800F05"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Cantone",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-2CBD1E0396233CC59628884116800F05"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Chantum",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Retrait",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Zurückgetreten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Resignation",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Ritiratosi",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Demissiunà",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-91571A21E42981F1451C93E9E3D29D29"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Geschlecht",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-91571A21E42981F1451C93E9E3D29D29"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Genere",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-91571A21E42981F1451C93E9E3D29D29"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Genre",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-91571A21E42981F1451C93E9E3D29D29"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Gender",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-9EA9D2B5A03BFC3151514720B6588BBD"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Partei",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-9EA9D2B5A03BFC3151514720B6588BBD"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Party",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-9EA9D2B5A03BFC3151514720B6588BBD"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Parti",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-9EA9D2B5A03BFC3151514720B6588BBD"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Partito",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-9EA9D2B5A03BFC3151514720B6588BBD"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Partida",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Gewählt",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Election",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Elu/e",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Eletto/a",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Elegì /elegida ils",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-808195CE403926F205480C3AE7E7BFCF"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-895E4CAF4297C5DFC5538339D9050498"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Beobachtet von",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-895E4CAF4297C5DFC5538339D9050498"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Observed by",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-895E4CAF4297C5DFC5538339D9050498"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Observé par",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b2605055-895E4CAF4297C5DFC5538339D9050498"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Osservato da",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "head": {
+    "vars": [
+      "name",
+      "nameLang",
+      "description",
+      "descriptionLang",
+      "created",
+      "published",
+      "modified",
+      "status",
+      "publisher",
+      "theme",
+      "viewer",
+      "observations"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-14"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Export der Interessenbindungen von APG"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-09-01"
+        },
+        "name": {
+          "type": "literal",
+          "value": "BK-APG Interessenbindungen"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4959"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-14"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      }
+    ]
+  }
+}

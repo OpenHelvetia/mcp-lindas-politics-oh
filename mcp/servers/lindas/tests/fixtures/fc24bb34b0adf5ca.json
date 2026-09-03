@@ -1,0 +1,452 @@
+{
+  "head": {
+    "vars": [
+      "cube",
+      "observations"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-chancellor"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "15"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "123"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-declined-election"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "5"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-department"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1315"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-president"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "180"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/committee-canton-statistic/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "920"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/committee-function-statistic/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "471"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/committee-gender-language-statistic/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "158"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/committee-type-department-statistic/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "43"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/committee-type-statistic/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/committee/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "143"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/membership/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1607"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/person/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1513"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4959"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2019"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4668"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "5929"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/canton-candidate-statistics/2019"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "546"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/canton-candidate-statistics/2023"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "546"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/canton-candidate-statistics/2027"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "546"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/canton-election-statistics/2019"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "26"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/canton-election-statistics/2023"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "26"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/canton-election-statistics/2027"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "26"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2019"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "511"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2023"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "618"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/seats-in-connected-lists/2019"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "669"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/seats-in-connected-lists/2023"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "785"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/seats-per-list/2019"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "230"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/seats-per-list/2023"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "245"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/petition/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "209"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/political-party-register-persons/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "28"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/political-party-register/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "9"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-keyfigures-stat/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1208"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "3570"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "10336"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote-stat/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "4975"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "18366"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/voting_dates/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "672"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-keyfigures-stat/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1200"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "16312"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/1"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "9008"
+        }
+      }
+    ]
+  }
+}

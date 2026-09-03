@@ -1,0 +1,1850 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1972"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Zürich"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "v": {
+          "type": "literal",
+          "value": "lic. iur., Unternehmer"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Rutz Gregor"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/candidate/2023-1027-ZH-01-1-9841"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "01 SVP Schweizerische Volkspartei"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/electoral-list/2023-ZH-1027-01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Zollikon ZH, Wildhaus-Alt St. Johann SG"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/1/9841"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "139650"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1969"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Bertschikon (Wiesendangen)"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "v": {
+          "type": "literal",
+          "value": "eidg. dipl. Landwirt, Ing. Agr. FH"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "10"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Hübscher Martin"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/candidate/2023-1027-ZH-01-10-9851"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "01 SVP Schweizerische Volkspartei"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/electoral-list/2023-ZH-1027-01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Wattenwil BE"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/10/9851"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "120588"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1980"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Küsnacht"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Dr. iur., Unternehmensjuristin"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "12"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fehr Düsel Nina"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/candidate/2023-1027-ZH-01-12-17237"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "01 SVP Schweizerische Volkspartei"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/electoral-list/2023-ZH-1027-01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Eglisau ZH, Sennwald-Sax SG, Zürich ZH, Berg am Irchel ZH"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/12/17237"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "121213"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1961"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Zürich"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Kleinunternehmer"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Heer Alfred \"Fredi\""
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/candidate/2023-1027-ZH-01-2-17233"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "01 SVP Schweizerische Volkspartei"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/electoral-list/2023-ZH-1027-01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Glarus GL"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/2/17233"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "131951"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1966"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Meilen"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Unternehmer"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean",
+          "type": "literal",
+          "value": "true"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Matter Thomas \"Tommy\""
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/candidate/2023-1027-ZH-01-3-17234"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "01 SVP Schweizerische Volkspartei"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/2023/electoral-list/2023-ZH-1027-01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Muhen AG, Sissach BL"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidates/2023/election-result/ZH/1027/01/3/17234"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "129707"
+        }
+      }
+    ]
+  }
+}

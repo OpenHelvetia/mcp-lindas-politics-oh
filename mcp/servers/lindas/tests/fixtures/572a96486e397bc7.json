@@ -1,0 +1,1770 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2023/electoral-list/2023-ZH-01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "v": {
+          "type": "literal",
+          "value": "SVP Schweizerische Volkspartei"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "v": {
+          "type": "literal",
+          "value": "01"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "10"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "4137508"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "4207258"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "69750"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/01"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2023/electoral-list/2023-ZH-02"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "v": {
+          "type": "literal",
+          "value": "SP – Sozialdemokratische Partei"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "v": {
+          "type": "literal",
+          "value": "02"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "8"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "3124769"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "3187598"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "62829"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/02"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2023/electoral-list/2023-ZH-03"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "v": {
+          "type": "literal",
+          "value": "GRÜNE"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "v": {
+          "type": "literal",
+          "value": "03"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "4"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1327445"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1362837"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "35392"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/03"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2023/electoral-list/2023-ZH-04"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "v": {
+          "type": "literal",
+          "value": "Grünliberale – GLP"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "v": {
+          "type": "literal",
+          "value": "04"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "4"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1659586"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1703984"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "44398"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/04"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "4"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "2023"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/2023/electoral-list/2023-ZH-05"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "v": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "v": {
+          "type": "literal",
+          "value": "05"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "5"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1888592"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "1951522"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#int",
+          "type": "literal",
+          "value": "62930"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/list-results/2023/ZH/05"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "v": {
+          "type": "literal",
+          "value": "5"
+        }
+      }
+    ]
+  }
+}

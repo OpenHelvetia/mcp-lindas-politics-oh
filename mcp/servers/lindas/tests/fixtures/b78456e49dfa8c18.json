@@ -1,0 +1,914 @@
+{
+  "head": {
+    "vars": [
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Hombrechtikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/153"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Küsnacht (ZH)"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/154"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Männedorf"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/155"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Meilen"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/156"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Oetwil am See"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/157"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Stäfa"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/158"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Uetikon am See"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/159"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zumikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/160"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zollikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/161"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bauma"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/171"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fehraltorf"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/172"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Hittnau"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/173"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Illnau-Effretikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/174"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Kyburg"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/175"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Lindau"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/176"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Pfäffikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/177"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Russikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/178"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sternenberg"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/179"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Weisslingen"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/180"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Wila"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/181"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Wildberg"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/182"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dübendorf"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/191"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Egg"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/192"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Fällanden"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/193"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Greifensee"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/194"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Maur"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/195"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Mönchaltorf"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/196"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schwerzenbach"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/197"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Uster"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/198"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Volketswil"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/199"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Affoltern am Albis"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Wangen-Brüttisellen"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/200"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Adlikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/21"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Altikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/211"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bertschikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/212"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Brütten"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/213"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dägerlen"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/214"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dättlikon"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/215"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dinhard"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/216"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Elgg"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/217"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ellikon an der Thur"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/218"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Elsau"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/219"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Benken (ZH)"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Hagenbuch"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/220"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Hettlingen"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/221"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Hofstetten (ZH)"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/222"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Neftenbach"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/223"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Pfungen"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/224"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Rickenbach (ZH)"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/225"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schlatt (ZH)"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/containsPlace"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/municipality/226"
+        }
+      }
+    ]
+  }
+}

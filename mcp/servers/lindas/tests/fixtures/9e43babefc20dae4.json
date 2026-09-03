@@ -1,0 +1,2340 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ogi , Adolf"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/person/adolf-ogi"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berne",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berna",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2000-12-31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "männlich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "masculin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "maschile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Unione democratica di Centro",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1987-12-09"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/adolf-ogi"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Rösti, Albert"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/person/albert-roesti"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berne",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berna",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "männlich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "masculin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "maschile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Unione democratica di Centro",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2022-12-07"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/albert-roesti"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Müller, Eduard"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/person/eduard-mueller"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berne",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berna",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1919-11-09"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "männlich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "masculin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "maschile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "FDP.Die Liberalen",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "PLR.Les Libéraux-Radicaux",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "PLR.I Liberali Radicali",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "PLR.Les Libéraux-Radicaux",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/15"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1895-08-16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-mueller"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "von Steiger, Eduard"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/person/eduard-von-steiger"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berne",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berna",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1951-12-31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "männlich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "masculin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "maschile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Unione democratica di Centro",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1940-12-10"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/eduard-von-steiger"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Wahlen, Friedrich Traugott"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/person/friedrich-traugott-wahlen"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berne",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Berna",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bern",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/2"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1965-12-31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "männlich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "male",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "masculin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "maschile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/male"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweizerische Volkspartei",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Union Démocratique du Centre",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Unione democratica di Centro",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/13"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1958-12-11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor/observation/friedrich-traugott-wahlen"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      }
+    ]
+  }
+}

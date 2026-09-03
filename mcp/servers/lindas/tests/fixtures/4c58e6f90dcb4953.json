@@ -1,0 +1,59 @@
+{
+  "head": {
+    "vars": [
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        }
+      }
+    ]
+  }
+}

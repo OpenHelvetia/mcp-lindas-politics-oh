@@ -1,0 +1,84 @@
+{
+  "artifact": "engine-manifest",
+  "spec": "https://ld.openhelvetia.swiss/ns/engines/0.1/engine",
+  "status_note": "Written at BX, AFTER the tool contract and against the engines/standard schema from the first line — unlike the fedlex manifest, which was migrated onto the standard later. The order this engine was built in is its argument: the holding was measured (testing/lindas-probe/, fourteen probes), the measurements became docs/reference/lindas-cube-rules.md (58 rules C0-C14), the rulebook's section 16 collected every consequence per tool, TOOLSET-v0.md derived 38 numbered contract points from it, and tests/contract_table.rs holds the crate against those points (37 pinned by a named test that runs, 1 deferred with a reason - only P18, because no cube points at another and v0 therefore answers no related cubes at all). The LICENCE is a field this engine fills honestly rather than a gate it waited behind: none of the 44 cubes states a licence in the graph at any distance the probe looked, the I14Y schema for a data SERVICE carries no licence field at all, and access is registered PUBLIC (dataservice c9cf11b6-d165-4498-92fc-d51167def66c, EU access-right vocabulary) - so every answer of this engine says licence: not stated at the source, access: public (I14Y).",
+  "engine": "lindas",
+  "version": "0.1.0",
+  "holding": {
+    "name": "LINDAS cube.link political data cubes of the Confederation (politics.ld.admin.ch)",
+    "authority": "Swiss Federal Archives (operator of LINDAS); Swiss Federal Chancellery as publisher of the political-rights and fc cubes",
+    "sovereignty_note": "The source stays with the publishing authority; the engine generates no holding data, adds no dimension and derives no figure - the Staendemehr is READ from the row it is stated in and never counted from the cantons (C8.3, rule and test). Everything an answer carries is reproducible from the source with the query the answer names.",
+    "input_types": [
+      {
+        "id": "cube-link-rdf",
+        "what": "cube.link data cubes: observations, their dimensions and the SHACL shape that declares them, plus the cube metadata (name, description, status, dates, publisher) - 44 cubes under politics.ld.admin.ch in four families, ~92'688 observations",
+        "access": "SPARQL over HTTPS"
+      },
+      {
+        "id": "value-vocabularies",
+        "what": "the labelled value vocabularies the observations point at - cantons, countries, parties, committees, legal forms, eCH and i14y concepts, the CreativeWorkStatus vocabulary - which live under other hosts as IRIs and are answered BY the same endpoint (measured: the endpoint carries their labels)",
+        "access": "SPARQL over HTTPS, subject-bound; the value's own host is never dereferenced"
+      }
+    ]
+  },
+  "tiers": [
+    {
+      "id": "base",
+      "status": "built",
+      "implementation": "oh-mcp-lindas (this directory): eight tools (TOOLSET-v0.md) - list_cubes, find_cube, describe_cube, dimension_values, observations, list_versions, describe, resolve_label. Every tool proven offline on 80 recorded fixtures with semantic keys; 70 tests that run (5 deliberate recording passes stand beside them, carrying #[ignore]), of which tests/contract_table.rs walks the contract itself.",
+      "resource_profile": "stateless, no index of its own, no cache; every live request passes the polite brake - 2 requests/s sustained, burst 4, at most 5 s of waiting, beyond that the typed upstream-busy refusal with retry_after_ms; fixtures are never braked. A tool call costs one to three bound SPARQL queries: list_cubes two (profiles, counts), describe_cube three (metadata, shape, one observation as a sample), observations two plus one bound ASK per dimension the shape does not declare — a dimension named twice (filtered and projected) is asked once, and filters and projections are capped at 24 each, so the ceiling of one call is 2 + 48 requests and not an open number, dimension_values one, list_versions two, find_cube one, describe two (count, page), resolve_label one. Timeouts are the caller's patience, per REQUEST: 15 s for a select or ASK, 30 s for the description page that reads the wide body (its count is one row and keeps the 15 s bound); the brake may reserve up to 5 s before each, so a description's worst case before a refusal is (5 + 15) + (5 + 30) = 50 s, which is the figure the contract states.",
+      "cost_profile": "cheap; every tool weighs 2 budget units at the gateway (oh_mcp_gateway::call_weight, the same sentence that prices the fedlex tools - a live upstream call costs somebody else something). Enforced in the gateway budget layer (E11-WP7), never in the server."
+    },
+    {
+      "id": "semantic",
+      "status": "not-built",
+      "reference_shape": "an embedding index over the cube and dimension labels would answer «which cube holds this question» better than a word match over 44 names; it needs an indexer of its own and is declared here as a PLANNED tier, never as served capability",
+      "resource_profile": "vector index + indexer pipeline",
+      "cost_profile": "index build + embedding cost; declared as planned"
+    },
+    {
+      "id": "generative",
+      "status": "not-built",
+      "reference_shape": "composition of the base primitives into auditable reasoning steps; generative outputs stay marked drafts with an audit trail in the usage context and never become holding or memory (E15 no. 1/6)",
+      "resource_profile": "composition layer over base/semantic",
+      "cost_profile": "per-use; declared as planned"
+    }
+  ],
+  "generated_manifest": {
+    "pointer": "https://ld.openhelvetia.swiss/mcp/lindas/manifest",
+    "status": "NOT YET SERVED - the platform manifest goes live with the ld.* switch-on; until then this pointer is a declared target, not a served resource. The registry-shaped manifest is prepared and parked at registry/standard/own-entry-draft/openhelvetia-lindas-mcp.json (E21: nothing is listed before its endpoint answers)."
+  },
+  "capabilities": {
+    "declared": [
+      "read-holding",
+      "serve-tools",
+      "network-egress"
+    ],
+    "tools": "capability ids lindas.* per TOOLSET-v0.md (tool names ARE capability ids, gateway convention, E16 no. 1): list_cubes (the served scope with its states), find_cube (a word of the name to candidates, a hint), describe_cube (the declared dimensions and the honest note that the record carries more), dimension_values (the values one dimension takes, labelled, a hint), observations (the rows themselves, filtered, capped, with cells that say whether a value is stated), list_versions (the versions of a family - and nothing links old to new, so nothing claims it), describe (everything the store says about one IRI), resolve_label (an IRI of any host, answered by the one endpoint, in one language with a fallback, a hint). Discovery is two-stage (E16): every stage-one line is at most 160 characters, verb-first, names when to use the tool and whether it answers a hint or a norm, and the gateway carries the same lines verbatim under a drift gate.",
+    "egress": [
+      "lindas.admin.ch:443"
+    ],
+    "iri_namespace_hosts": [
+      "politics.ld.admin.ch",
+      "ld.admin.ch",
+      "register.ld.admin.ch",
+      "cube.link",
+      "schema.org",
+      "qudt.org",
+      "www.w3.org",
+      "openhelvetia.swiss",
+      "a.example",
+      "example.org",
+      "evil.example"
+    ],
+    "egress_note": "EXHAUSTIVE per E15 no. 3a (syntax Domain[:Port]): ONE host, the SPARQL endpoint https://lindas.admin.ch/query, and nothing else. The server ENFORCES it in code before a socket is opened (backend::ENDPOINT_HOST: a connect target that does not carry the prefix - including a --endpoint passed by a deployer - is refused as invalid-input), on top of the grep-level conformance gate. The IRI hosts are the holding's own identifiers and are never dereferenced: politics.ld.admin.ch is the served scope, ld.admin.ch and register.ld.admin.ch are where value IRIs live (cantons, countries, i14y concepts), cube.link, schema.org, qudt.org and www.w3.org are the vocabularies the queries name in their prefixes. This was MEASURED before it was declared (research-lindas-cube.md section 2b.4): the endpoint's DESCRIBE is a superset of dereferencing a cube or observation IRI on its own host - same outgoing triples, same hashes - so the one host suffices and the nine *.ld.admin.ch hosts stay reader-side identifiers. openhelvetia.swiss appears in the identifying User-Agent, a.example, example.org and evil.example in the crate's own unit tests (the last one is the refusal test for a foreign endpoint); none is a connect target. Politeness towards the one host is enforced too: the token bucket brakes every live request and refuses instead of queueing beyond five seconds."
+  },
+  "commercial_dependencies": [],
+  "strategy": {
+    "document": "ENGINE.md",
+    "chunking": "no text to chunk: the unit of retrieval is the observation ROW (one vote by one region, one candidate in one year), the addressable unit above it is the cube VERSION (a new version is a new cube IRI and nothing links old to new), and the cap is the tool's because the endpoint has none - every list answers with limit, offset, total, returned and truncated",
+    "graph_model": "cube.link as published by the authority (cube:Cube, cube:observationSet, cube:observation, the SHACL shape that declares the dimensions); the engine adds no classes. What it must know about the model is measured, not assumed: the shape is a SUBSET of the record (14 declared against 51 carried in the largest cube), «not stated» is written in two shapes (the cube:Undefined IRI and an empty typed literal), no cube points at another, and the scope lives in ten named graphs which are never enumerated",
+    "retrieval": "bound SPARQL against the one public endpoint; every query names a subject or a predicate (the scope-wide ones bind their 44 subjects with VALUES), no prefix filter, no unbound scan, no graph enumeration - measured at 90 s without an answer where the typed query answers in 223 ms. Two answer kinds: a norm (a figure or statement of the store, with provenance) and a hint (a candidate: a search result, a value list, a label). A dimension the shape does not declare is admitted by ONE bound ASK and reported as undeclared_dimensions; labels are asked in five languages with the fallback de-fr-it-en-rm and never «all languages», because one value of the corpus carries labels in 45",
+    "evaluation": "the contract IS the test plan: tests/contract_table.rs walks the 38 points of TOOLSET-v0.md and fails on a point that names no test that exists and runs, or says «deferred» without a reason (37 pinned, 1 deferred). Beside it: 41 offline e2e tests covering every tool's contract example, the six acceptance families and the states; 22 unit tests; 7 gate tests; and a Counting backend that replays the recorder's own call sequence so the recording pass is MEASURED (108 requests over 80 keys) rather than trusted - and, since BX', measured BEFORE a re-recording runs as well as after (the describe re-record was named at at most 15, measured at 9, and cost 9). The semantic evaluation belongs to the semantic tier and is not claimed here."
+  }
+}

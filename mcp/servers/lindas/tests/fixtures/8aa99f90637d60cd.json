@@ -1,0 +1,414 @@
+{
+  "head": {
+    "vars": [
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Casanova, Corina"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/actor"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/person/corina-casanova"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Graubünden",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Grisons",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Grigioni",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Grischun",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Graubünden",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/addressRegion"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/18"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/endDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2015-12-31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "weiblich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/female"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "female",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/female"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "féminin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/female"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "femminile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/gender"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/gender/female"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Parti démocrate-chrétien suisse",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Partito popolare democratico svizzero",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Christlichdemokratische Volkspartei der Schweiz",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Christlichdemokratische Volkspartei der Schweiz",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Parti démocrate-chrétien suisse",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/memberOf"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/party/14"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/startDate"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2007-12-12"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      }
+    ]
+  }
+}

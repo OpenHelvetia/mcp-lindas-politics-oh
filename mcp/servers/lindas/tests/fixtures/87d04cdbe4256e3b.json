@@ -1,0 +1,27 @@
+{
+  "head": {
+    "vars": [
+      "cube",
+      "name",
+      "nameLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fch/apg/vested-interest/1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "BK-APG Interessenbindungen"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": ""
+        }
+      }
+    ]
+  }
+}

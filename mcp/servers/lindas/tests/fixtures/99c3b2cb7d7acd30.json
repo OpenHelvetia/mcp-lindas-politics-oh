@@ -1,0 +1,1858 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Observation"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Observation"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Chancellerie fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Cancelleria federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundeskanzlei",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal Chancellery",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "224"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsfrage"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bundesbeschluss vom 09.10.1970 über die Einführung des Frauenstimm- und Wahlrechts in eidgenössischen Angelegenheiten",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Arrêté fédéral du 09.10.1970 sur l'institution du suffrage féminin en matière fédérale",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decreto federale del 09.10.1970 concernente l'istituzione del diritto elettorale e di voto della donna in materia federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Federal decree on introduction of women's suffrage at federal level",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ungültige Stimmen = 1703",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Suffrages nuls = 1'703.",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schede nulle = 1'703",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/anmerkung/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Aenderung von Art. 74 BV",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Modification de l'art. 74 cst.",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Modificazione dell'art. 74 Cost.",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/artikelBv/229"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/auslandschweizer"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1971-02-07"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Département de justice et police",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Justiz- und Polizeidepartement",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dipartimento di giustizia e polizia",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Departement da giustizia e polizia",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Departement of Justice and Police ",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/departementHist/7"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/eingereicht"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "181136"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Die Vorlage wurde angenommen",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Le projet a été accepté",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "L'oggetto è stato accettato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisBinary"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Volks- und Ständemehr",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Majorité du peuple et des cantons",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Maggioranza del popolo e dei Cantoni",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Popular and cantonal majority",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/gueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "179006"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2240"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ja"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "119631"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "66.83"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneGegenentwurfGanzeStandesstimme"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneGegenentwurfHalbeStandesstimme"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneInitiativeGanzeStandesstimme"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneInitiativeHalbeStandesstimme"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneJaGanzeStandesstimme"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneJaHalbeStandesstimme"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneNeinGanzeStandesstimme"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/kantoneNeinHalbeStandesstimme"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "0"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/leer"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "2069"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/mmDate"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/mmId"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/nein"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "59375"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "33.17"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ohneAntwort"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "BBl 1971 I 485",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "FF 1971 I 502",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "FF 1971 I 330",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/quelle/229"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zürich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurigo",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurich",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/canton/1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeGegenentwurfText"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeInitiativeText"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        },
+        "v": {
+          "type": "literal",
+          "value": "1"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        },
+        "v": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenGegenentwurf"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenInitiative"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenJa"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "1.0"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/standesstimmenNein"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "0.0"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Actif",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Aktiv",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "attivi",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Active",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/status/1"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stichfrage"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmberechtigte"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "290558"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "62.34"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmenGegenentwurf"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmenInitiative"
+        },
+        "v": {
+          "datatype": "https://cube.link/Undefined",
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Undefined observation."
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": ""
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/titelVolksmund"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Obligatorische Referendumsvorlage",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Référendum obligatoire",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Referendum obbligatorio",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie/3"
+        }
+      },
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/1-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ungueltig"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "61"
+        }
+      }
+    ]
+  }
+}

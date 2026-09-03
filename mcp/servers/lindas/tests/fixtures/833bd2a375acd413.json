@@ -1,0 +1,516 @@
+{
+  "head": {
+    "vars": [
+      "dim",
+      "name",
+      "nameLang",
+      "nodeKind",
+      "datatype",
+      "scale",
+      "class",
+      "minCount",
+      "maxCount",
+      "unit",
+      "inList"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Geboren",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Nato",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Né",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Domicile",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Domicilio",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Wohnort",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Beruf",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Professione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Profession",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Kandidatennummer",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Numéro de candidat",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Numero del candidato",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Gewählt",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Eletti",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Élus",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Wahljahr",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Année électorale",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Anno elettorale",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Name",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Nom",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Cognome e nome",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Kanton",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Canton",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Cantone",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Heimatorte",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Lieux d'origine",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Luoghi d'origine",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Stimmen",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Suffrages",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Suffragi",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      }
+    ]
+  }
+}

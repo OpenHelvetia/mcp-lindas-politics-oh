@@ -1,0 +1,53 @@
+{
+  "head": {
+    "vars": [
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/datum"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/id"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/quelle"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/sortierung"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/stand"
+        }
+      }
+    ]
+  }
+}

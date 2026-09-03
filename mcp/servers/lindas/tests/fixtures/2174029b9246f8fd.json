@@ -1,0 +1,754 @@
+{
+  "head": {
+    "vars": [
+      "cube",
+      "name",
+      "nameLang",
+      "description",
+      "descriptionLang",
+      "status",
+      "statusLabel",
+      "statusLabelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published",
+          "xml:lang": "en"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Publiziert",
+          "xml:lang": "de"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "publié",
+          "xml:lang": "fr"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "pubblicata",
+          "xml:lang": "it"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published",
+          "xml:lang": "en"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Publiziert",
+          "xml:lang": "de"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "publié",
+          "xml:lang": "fr"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "pubblicata",
+          "xml:lang": "it"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published",
+          "xml:lang": "en"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Publiziert",
+          "xml:lang": "de"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "publié",
+          "xml:lang": "fr"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "pubblicata",
+          "xml:lang": "it"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": ""
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published",
+          "xml:lang": "en"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Publiziert",
+          "xml:lang": "de"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "publié",
+          "xml:lang": "fr"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "pubblicata",
+          "xml:lang": "it"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/fc/cube-councillor"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "statusLabel": {
+          "type": "literal",
+          "value": "Published"
+        },
+        "statusLabelLang": {
+          "type": "literal",
+          "value": ""
+        }
+      }
+    ]
+  }
+}

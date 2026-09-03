@@ -1,0 +1,22 @@
+[package]
+name = "oh-mcp-lindas"
+version = "0.1.0"
+edition = "2021"
+description = "LINDAS cube.link domain MCP server, base tier (L2.7): the 44 political cubes of politics.ld.admin.ch, built from TOOLSET-v0.md"
+
+[lib]
+name = "oh_mcp_lindas"
+path = "src/lib.rs"
+
+[dependencies]
+anyhow = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rmcp = { version = "=3.1.3", features = ["server", "transport-io"] }
+schemars = "1"
+tokio = { version = "1", features = ["rt-multi-thread", "macros", "io-std"] }
+ureq = { version = "=3.4.0", features = ["json"] }
+# The polite brake and the semantic fixture store, shared with the
+# fedlex server, which built both and gave them away at BX rather than
+# let this crate copy them (E15: reuse with attribution).
+oh-mcp-common = { path = "../common" }

@@ -1,0 +1,1333 @@
+{
+  "head": {
+    "vars": [
+      "value",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Im Sammelstadium gescheitert",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/10"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Initiative ayant échoué au stade de la récolte des signatures",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/10"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Iniziativa non riuscita per insufficienza del numero di firme",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/10"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Im Sammelstadium gescheitert",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/10"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Nicht zustandegekommen am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Non aboutissement de l'initiative",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Non riuscita dell'iniziativa",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Nicht zustandegekommen am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/11"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zustandegekommen am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Aboutissement de l'initiative",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Riuscita dell'iniziativa",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zustandegekommen am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/13"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Entwurf Bundesbeschluss",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Projet d'arrêté fédéral",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Disegno di decreto federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Entwurf Bundesbeschluss",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/14"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Botschaft des Bundesrats",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Message du Conseil fédéral",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Messaggio del Consiglio federale",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Botschaft des Bundesrats",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/15"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Vom Parlament ungültig erklärt",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Déclarée nulle par le parlement le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Dichiarata nulla dal Parlamento il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Vom Parlament ungültig erklärt",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/16"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Beschluss des Parlaments",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Arrêté du Parlement",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decreto del Parlamento",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Beschluss des Parlaments",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/17"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurückgezogen, dir. Gegenentwurf",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurückgezogen, dir. Gegenentwurf",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Retirée en raison d'un contre-projet direct",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ritirata in favore di un controprogetto diretto",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/18"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bedingter Rückzug",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Retrait conditionnel",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ritiro condizionato",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Bedingter Rückzug",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/19"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sammelbeginn",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Inizio della raccolta delle firme",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Début de la récolte des signatures",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Sammelbeginn",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/2"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurückgezogen, ind. Gegenvorschlag",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/20"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurückgezogen, ind. Gegenvorschlag",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/20"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Retirée en raison d'un contre-projet indirect",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/20"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ritirata in favore di un controprogetto indiretto",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/20"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurückgezogen, andere Gründe",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/21"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ritirata per altri motivi",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/21"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Zurückgezogen, andere Gründe",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/21"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Retirée pour d'autres raisons",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/21"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abgestimmt am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votation le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votato il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abgestimmt am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/22"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abstimmung über Gegenentwurf",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/23"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votation sur le contre-projet le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/23"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votazione sul controprogetto il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/23"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abstimmung über Gegenentwurf",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/23"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Inkrafttreten am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Entrée en vigueur",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Entrata in vigore il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Inkrafttreten am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/24"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abgeschrieben am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/25"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Désapprouvée",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/25"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Tolta di ruolo il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/25"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Abgeschrieben am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/25"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Vom Parlament angenommen",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/26"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Approuvée par le Parlement le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/26"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Approvata dal Parlamento il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/26"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Vom Parlament angenommen",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/26"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ablauf Sammelfrist",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Expiration du délai imparti pour la récolte des signatures",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Scadenza del termine della raccolta delle firme",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Ablauf Sammelfrist",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/3"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Kein übereinstimmender Beschluss der eidg. Räte",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/30"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Pas de décision concordante des conseils",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/30"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Decisioni discordanti delle Camere",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/30"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Kein übereinstimmender Beschluss der eidg. Räte",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/30"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Volksabstimmung aufgehoben",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votation populaire annulée",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Votazione popolare annullata",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Volksabstimmung aufgehoben",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/31"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Vorprüfung vom",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Examen préliminaire du",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Esame preliminare del",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Vorprüfung vom",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/6"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Eingereicht am",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Initiative déposée le",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Iniziativa depositata il",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Eingereicht am",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "value": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-initiative-stat/stand/7"
+        }
+      }
+    ]
+  }
+}

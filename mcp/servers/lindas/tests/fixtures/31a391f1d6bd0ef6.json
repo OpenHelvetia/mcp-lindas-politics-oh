@@ -1,0 +1,2811 @@
+{
+  "head": {
+    "vars": [
+      "dim",
+      "name",
+      "nameLang",
+      "nodeKind",
+      "datatype",
+      "scale",
+      "class",
+      "minCount",
+      "maxCount",
+      "unit",
+      "inList"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "datatype": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Beobachtet von",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "datatype": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Observed by",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "datatype": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Observé par",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "datatype": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Osservato da",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "datatype": {
+          "type": "uri",
+          "value": "https://cube.link/Undefined"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Numero della votazione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Numéro de votation",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Abstimmungsnummer",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungsNummerBk"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Vote number",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Titolo della votazione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Titre de la votation",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Abstimmungstitel",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/abstimmungstitel"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Vote title",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Data della votazione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Date de la votation",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Abstimmungsdatum",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Vote date",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-1312BBFED755539020B708A3633F31B8"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-1312BBFED755539020B708A3633F31B8"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Vote result CH",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-1312BBFED755539020B708A3633F31B8"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Risultato della votazione CH",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-1312BBFED755539020B708A3633F31B8"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Résultat de la votation CH",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnis"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-1312BBFED755539020B708A3633F31B8"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Abstimmungsergebnis CH",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Volks- und Ständemehr",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Majorité du peuple et des cantons",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Maggioranza del popolo e dei Cantoni",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/ergebnisDetail"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Popular and cantonal majority",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-3908D9DCF4D67260EA18D3B196713531"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-3908D9DCF4D67260EA18D3B196713531"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-3908D9DCF4D67260EA18D3B196713531"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-3908D9DCF4D67260EA18D3B196713531"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-3908D9DCF4D67260EA18D3B196713531"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/OrdinalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Ja-Anteil",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Pourcentage de oui",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Percentuale di sì",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/jaAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Percentage of ‘yes’ votes",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Nein-Anteil",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Pourcentage de non",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Percentuale di no",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/neinAnteil"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Percentage of ‘no’ votes",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-9BEB58E398D6644D1B34FC9A902417EC"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Region",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-9BEB58E398D6644D1B34FC9A902417EC"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Region",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-9BEB58E398D6644D1B34FC9A902417EC"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Région",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-9BEB58E398D6644D1B34FC9A902417EC"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Regione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-9BEB58E398D6644D1B34FC9A902417EC"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Annehmende Stände",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Cantons voting ‘yes’",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Voto dei Cantoni sì",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeJaText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Votes des cantons oui",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Cantons voting ‘no’",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Voto dei Cantoni no",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Votes des cantons non",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/staendeNeinText"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Ablehnende Stände",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Stimmbeteiligung",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Participation",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Partecipazione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/MeasureDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/stimmbeteiligung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Voter turnout",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/RatioScale"
+        },
+        "unit": {
+          "type": "uri",
+          "value": "http://qudt.org/vocab/unit/PERCENT"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-5FD75393A0434898E21F4296A0B50A0E"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-5FD75393A0434898E21F4296A0B50A0E"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Abstimmungstyp",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-5FD75393A0434898E21F4296A0B50A0E"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Tipo di votazione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-5FD75393A0434898E21F4296A0B50A0E"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Type de votation",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/typologie"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5044465-5FD75393A0434898E21F4296A0B50A0E"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Vote type",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      }
+    ]
+  }
+}

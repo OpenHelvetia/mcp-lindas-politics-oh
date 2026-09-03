@@ -1,0 +1,1191 @@
+{
+  "head": {
+    "vars": [
+      "dim",
+      "name",
+      "nameLang",
+      "nodeKind",
+      "datatype",
+      "scale",
+      "class",
+      "minCount",
+      "maxCount",
+      "unit",
+      "inList"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Beobachtet von",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Observed by",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Observé par",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Osservato da",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/datum"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Date",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/datum"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Data",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/datum"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Datum",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/datum"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Date",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/datum"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-A8267155403581FCAAEC6460FC2DA0B6"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "ID",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-A8267155403581FCAAEC6460FC2DA0B6"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-A8267155403581FCAAEC6460FC2DA0B6"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-A8267155403581FCAAEC6460FC2DA0B6"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/id"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-A8267155403581FCAAEC6460FC2DA0B6"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Id",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/quelle"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Fonte",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/quelle"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Source",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/quelle"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Source",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/quelle"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Quelle",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/quelle"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/sortierung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/sortierung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Sortierung",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/sortierung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Tri",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/sortierung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Criterio di ordinamento",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/AttributeDimension"
+        },
+        "datatype": {
+          "type": "uri",
+          "value": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/sortierung"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Sorting",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#Literal"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/stand"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-0A63BF2F47B21A987E3FF8B4E0CC41B7"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Stand",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/stand"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-0A63BF2F47B21A987E3FF8B4E0CC41B7"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "État",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/stand"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-0A63BF2F47B21A987E3FF8B4E0CC41B7"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Stato",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/stand"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-0A63BF2F47B21A987E3FF8B4E0CC41B7"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Status",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      },
+      {
+        "class": {
+          "type": "uri",
+          "value": "https://cube.link/KeyDimension"
+        },
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum-stat/stand"
+        },
+        "inList": {
+          "type": "bnode",
+          "value": "genid-6cb33cdb84264e07a24c2741d1d98a1b5151109-0A63BF2F47B21A987E3FF8B4E0CC41B7"
+        },
+        "maxCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "minCount": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "@",
+          "xml:lang": "rm"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "nodeKind": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#IRI"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/NominalScale"
+        }
+      }
+    ]
+  }
+}

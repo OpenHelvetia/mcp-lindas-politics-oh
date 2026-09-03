@@ -1,0 +1,155 @@
+{
+  "head": {
+    "vars": [
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/abstimmungsNummerBk"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/aenderung"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/anmerkung"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatum"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/beschlussdatumJahr"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/botschaftBrNummer8stellig"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/id"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/laufendeReferendumsfrist"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmDate"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/mmId"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/phase"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/region"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/status"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/titel"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/typ"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenEingereicht"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltig"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenGueltigNachAuszaehlung"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltig"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/unterschriftenUngueltigAnteil"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/referendum/zustandegekommen"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "head": {
+    "vars": [
+      "cube",
+      "name",
+      "nameLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "cube": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote-stat/1"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Kennzahlen zu Volksabstimmungen",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      }
+    ]
+  }
+}

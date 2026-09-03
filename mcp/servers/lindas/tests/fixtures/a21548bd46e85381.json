@@ -1,0 +1,528 @@
+{
+  "head": {
+    "vars": [
+      "dim",
+      "name",
+      "nameLang",
+      "nodeKind",
+      "datatype",
+      "scale",
+      "class",
+      "minCount",
+      "maxCount",
+      "unit",
+      "inList"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Wahljahr",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Année électorale",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Anno elettorale",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "scale": {
+          "type": "uri",
+          "value": "http://qudt.org/schema/qudt/IntervalScale"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Kanton",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Canton",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Cantone",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Liste",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Lista",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listenverbindung",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Apparentement",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Congiunzione di liste",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listenbezeichnung",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Dénomination de la liste",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Denominazione della lista",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Listennummer",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Numéro de liste",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Numero della lista",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Seggi",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Sièges",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Sitze",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Kandidatenstimmen",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Suffrages nominatifs",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Voti personali",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Parteienstimmen",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Suffrages de parti",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Voti di partito",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Suffrages complémentaires",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Suffragi di complemento",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Zusatzstimmen",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Unterlistenverbindung",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Sotto-congiunzione",
+          "xml:lang": "it"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "dim": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Sous-apparentement",
+          "xml:lang": "fr"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      }
+    ]
+  }
+}

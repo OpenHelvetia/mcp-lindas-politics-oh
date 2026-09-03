@@ -1,0 +1,145 @@
+{
+  "head": {
+    "vars": [
+      "obs",
+      "p",
+      "v",
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/CHE-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/date"
+        },
+        "v": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "1971-02-07"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Svizzera",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/CHE-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/country/CHE"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Suisse",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/CHE-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/country/CHE"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Schweiz",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/CHE-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/country/CHE"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Switzerland",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/CHE-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/country/CHE"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Svizra",
+          "xml:lang": "rm"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "rm"
+        },
+        "obs": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/1/observations/CHE-2240"
+        },
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/political-rights/popular-vote/region"
+        },
+        "v": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/country/CHE"
+        }
+      }
+    ]
+  }
+}

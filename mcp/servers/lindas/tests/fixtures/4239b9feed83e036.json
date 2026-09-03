@@ -1,0 +1,230 @@
+{
+  "head": {
+    "vars": [
+      "name",
+      "nameLang",
+      "description",
+      "descriptionLang",
+      "created",
+      "published",
+      "modified",
+      "status",
+      "publisher",
+      "theme",
+      "viewer",
+      "observations"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2026-08-25T14:10:33.963Z"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "123"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2026-08-25T14:10:33.963Z"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Bundesrat Mitglieder, Partei, Kanton, Amtszeiten",
+          "xml:lang": "de"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "123"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Mitglieder des Bundesrats mit Partei, Kanton und Amtszeiten.",
+          "xml:lang": "de"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "de"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2026-08-25T14:10:33.963Z"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "123"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      },
+      {
+        "created": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "description": {
+          "type": "literal",
+          "value": "Members of the Swiss Federal Council with party, canton and terms.",
+          "xml:lang": "en"
+        },
+        "descriptionLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "modified": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2026-08-25T14:10:33.963Z"
+        },
+        "name": {
+          "type": "literal",
+          "value": "Federal Councillors, Party, Canton, Terms",
+          "xml:lang": "en"
+        },
+        "nameLang": {
+          "type": "literal",
+          "value": "en"
+        },
+        "observations": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "literal",
+          "value": "123"
+        },
+        "published": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#date",
+          "type": "literal",
+          "value": "2026-01-21"
+        },
+        "publisher": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/FCh"
+        },
+        "status": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/vocabulary/CreativeWorkStatus/Published"
+        },
+        "viewer": {
+          "type": "uri",
+          "value": "https://ld.admin.ch/application/visualize"
+        }
+      }
+    ]
+  }
+}

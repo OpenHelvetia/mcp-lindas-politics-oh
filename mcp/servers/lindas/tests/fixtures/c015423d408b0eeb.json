@@ -1,0 +1,89 @@
+{
+  "head": {
+    "vars": [
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/birthDate"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/homeLocation"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://schema.org/jobTitle"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/candidateNumber"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/elected"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/electionYear"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCandidate"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasCanton"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/hasElectoralList"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/placeOfOrigin"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/candidates/votes"
+        }
+      }
+    ]
+  }
+}

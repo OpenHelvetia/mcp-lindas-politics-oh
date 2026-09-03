@@ -1,0 +1,100 @@
+{
+  "head": {
+    "vars": [
+      "label",
+      "labelLang"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "label": {
+          "type": "literal",
+          "value": "Weiblich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Féminin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Femminile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Female",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Weiblich",
+          "xml:lang": "de"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "de"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Féminin",
+          "xml:lang": "fr"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "fr"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Femminile",
+          "xml:lang": "it"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "it"
+        }
+      },
+      {
+        "label": {
+          "type": "literal",
+          "value": "Female",
+          "xml:lang": "en"
+        },
+        "labelLang": {
+          "type": "literal",
+          "value": "en"
+        }
+      }
+    ]
+  }
+}

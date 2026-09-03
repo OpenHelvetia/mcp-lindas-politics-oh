@@ -1,0 +1,89 @@
+{
+  "head": {
+    "vars": [
+      "p"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "p": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://cube.link/observedBy"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/electionYear"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasCanton"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hasElectoralList"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/hlv"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listName"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/listNr"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/seats"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalKandidatenstimmen"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalParteienstimmen"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/totalZusatzstimmen"
+        }
+      },
+      {
+        "p": {
+          "type": "uri",
+          "value": "https://politics.ld.admin.ch/national-council-election/list-results/ulv"
+        }
+      }
+    ]
+  }
+}
