@@ -764,7 +764,7 @@ exactly this much:
 
 ## 7. Acceptance table — six question families
 
-Jonathan's six families, each as: the cube it lives in, the tool
+The association's six question families, each as: the cube it lives in, the tool
 sequence, the states that can occur on the way, and the rules that
 govern the step. This is what «the contract answers the questions» has
 to mean. Family 6 is two questions, because the holding answers them in
@@ -897,7 +897,7 @@ anyway; nothing else in this contract is without a rule id.
    not be read by a plain fetch. **No manifest may be written until the
    operator and the publisher answer** — a manifest states a licence,
    and this one cannot. Until then every answer carries `licence: "not
-   stated at the source"` (P38). This is Jonathan's question to send,
+   stated at the source"` (P38). This is the association's question to send,
    and it is the one thing that keeps this contract from becoming a
    crate.
 2. **The acceptable rate.** The brake is the platform's own guess at
@@ -924,7 +924,7 @@ anyway; nothing else in this contract is without a rule id.
 
 ### Answered since (BX, 2026-08-30 — append, the items above stand as written)
 
-- **Item 1, the licence: no longer a gate.** Jonathan decided at the
+- **Item 1, the licence: no longer a gate.** The association decided at the
   close of BW′, on three polite I14Y requests: the LINDAS data service
   is registered (`dataservice/c9cf11b6-d165-4498-92fc-d51167def66c`,
   publisher Swiss Federal Archives) with `accessRights: PUBLIC`, and the
@@ -940,7 +940,7 @@ anyway; nothing else in this contract is without a rule id.
   answers for both vocabularies.
 - **Item 4, the manifest fields:** written with the mount (BX commit 2);
   P37 is the contract table's second «deferred» until then.
-- **Items 2, 3 and 6 stand open** — the acceptable rate is Jonathan's
+- **Items 2, 3 and 6 stand open** — the acceptable rate is the association's
   question to the Service Desk (a courtesy, not a gate), the shape
   hash's second run is still owed, and the two `cube:Undefined` forms
   are still carried as one state with a `form` field.

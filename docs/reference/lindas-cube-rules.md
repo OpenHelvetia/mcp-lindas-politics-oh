@@ -4,7 +4,7 @@ type: Reference
 status: informative (reference); every figure is a measurement of 2026-08-29/30
 language: English
 updated: 2026-08-30
-owner: Jonathan
+owner: Verein OpenHelvetia
 review-by: 2026-12-31
 maintenance: a rule changes only when the data changes; the holding is actively maintained, so the figures age
 ---
