@@ -2,6 +2,8 @@
 name = "oh-mcp-lindas"
 version = "0.1.0"
 edition = "2021"
+license = "Apache-2.0"
+publish = false
 description = "LINDAS cube.link domain MCP server, base tier (L2.7): the 44 political cubes of politics.ld.admin.ch, built from TOOLSET-v0.md"
 
 [lib]
