@@ -423,12 +423,55 @@ fn language(lang: Option<&str>) -> std::result::Result<&str, Value> {
 fn served_cube(cube: &str) -> std::result::Result<String, Value> {
     let cube = match iri_safe(cube) {
         Ok(c) => normalise_value(c),
-        Err(e) => return Err(invalid_cube(&format!("cube: {e:#}"))),
+        // The chat cites a row by the cube's PATH and a fragment —
+        // «<family>/<cube>/<version>#…» — and a model that read such a
+        // key hands the short form back as the cube (07.09.2026). When
+        // it is a served cube's path, the refusal names the IRI
+        // instead of only the rule.
+        Err(e) => {
+            let path = cube.trim().trim_start_matches('/');
+            let path = path.split_once('#').map_or(path, |(cube, _)| cube);
+            return Err(match scope::iri_of(path) {
+                Some(full) => invalid_cube(&format!(
+                    "cube: «{}» is the short form a citation key uses, not the cube's IRI — \
+                     the served cube is {full}; pass that",
+                    cube.trim()
+                )),
+                None => invalid_cube(&format!("cube: {e:#}")),
+            });
+        }
     };
     if !scope::is_served(&cube) {
         return Err(not_found(&cube));
     }
     Ok(cube)
+}
+
+/// The detail of a dimension refusal — and, when what came in is a bare
+/// name such as «date» or «region», the IRI that name would have in
+/// this cube. Measured 07.09.2026: a model wrote `date=1971-02-07`
+/// against a refusal that already said «never a short name», because
+/// the rule named no IRI it could copy. The holding writes its
+/// dimension IRIs under the cube's dimension base (C1.2), so the
+/// candidate is stated as a candidate: describe_cube decides whether
+/// the cube declares it. Costs no request.
+fn short_name_hint(what: &str, dimension: &str, cube: &str, error: &anyhow::Error) -> String {
+    let name = dimension.trim();
+    let bare = !name.is_empty()
+        && !name.contains(['/', ':', ' '])
+        && name
+            .chars()
+            .all(|c| c.is_ascii_alphanumeric() || c == '_' || c == '-');
+    if bare {
+        format!(
+            "{what}: «{name}» is a short name, not a dimension IRI — if this cube declares it, \
+             its IRI is {}/{name} (lindas.describe_cube lists the cube's dimensions under \
+             «dimensions»)",
+            scope::dimension_base(cube)
+        )
+    } else {
+        format!("{what}: {error:#}")
+    }
 }
 
 /// The cap a caller asked for, clamped to this tool's own.
@@ -1418,7 +1461,11 @@ pub fn observations(
     for (dimension, value) in filters {
         let dimension = match iri_safe(dimension) {
             Ok(d) => normalise_value(d),
-            Err(e) => return Ok(invalid_dimension(&format!("filter: {e:#}"))),
+            Err(e) => {
+                return Ok(invalid_dimension(&short_name_hint(
+                    "filter", dimension, &cube, &e,
+                )));
+            }
         };
         let value = normalise_value(value);
         if (value.starts_with("https://") || value.starts_with("http://"))
@@ -1434,7 +1481,14 @@ pub fn observations(
     for dimension in projection {
         match iri_safe(dimension) {
             Ok(d) => projected.push(normalise_value(d)),
-            Err(e) => return Ok(invalid_projection(&format!("dimensions: {e:#}"))),
+            Err(e) => {
+                return Ok(invalid_projection(&short_name_hint(
+                    "dimensions",
+                    dimension,
+                    &cube,
+                    &e,
+                )));
+            }
         }
     }
     projected.sort();

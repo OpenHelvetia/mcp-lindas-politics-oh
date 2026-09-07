@@ -135,8 +135,10 @@ pub struct DimensionValuesParams {
 #[serde(deny_unknown_fields)]
 pub struct ObservationsParams {
     pub cube: String,
-    /// Filters as `dimension=value` pairs; the dimension is the full
-    /// IRI `lindas.describe_cube` served, the value an IRI or a plain
+    /// Filters, ONE STRING per filter in the form `dimension=value` —
+    /// `https://politics.ld.admin.ch/political-rights/popular-vote/date=1971-02-07`
+    /// — never an object. The dimension is the full IRI
+    /// `lindas.describe_cube` served, the value an IRI or a plain
     /// literal. A dimension the shape does not declare is admitted
     /// when the cube's observations carry it, and the answer says so.
     pub filters: Option<Vec<String>>,
